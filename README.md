@@ -1,0 +1,2 @@
+# sdg
+📝 Static Doc Generation
